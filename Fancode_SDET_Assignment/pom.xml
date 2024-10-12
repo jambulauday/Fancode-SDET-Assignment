@@ -8,17 +8,7 @@
 	<groupId>com.assignment</groupId>
 	<artifactId>fancode</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fancode</name>
-	<!-- FIXME change it to the project's website -->
-	<url>http://www.example.com</url>
-	<developers>
-		<developer>
-			<name>Aniket Khaire</name>
-			<roles>
-				<role>SDET-2</role>
-			</roles>
-		</developer>
-	</developers>
+
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
