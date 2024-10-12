@@ -71,19 +71,8 @@ We're using the following endpoints from http://jsonplaceholder.typicode.com/:
 - Jackson API
 - Java
 
-## 🎯 Assessment Criteria
 
-This project aims to demonstrate:
-- Coding skills
-- Logical approach to problem-solving
-- Code reusability
-- Project structuring
 
-## 🙏 Acknowledgements
 
-Thanks to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for providing the API endpoints for this assignment.
 
----
-
-Happy testing! May all your assertions pass! 🎉
 
